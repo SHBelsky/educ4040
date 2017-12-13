@@ -1,0 +1,36 @@
+* {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+body {
+    background-color: white;
+}
+img {
+    border: none !important;
+    box-shadow: none !important;
+    max-height: 70% !important;
+    max-width: 70% !important;
+}
+blockquote {
+    font-size: 35px !important;
+}
+section > div {
+    margin: 2% 0 !important;
+}
+
+#container {
+    border-bottom: 20px solid #B31B1B;
+    height: 100%;
+    width: 100%;
+}
+.reveal p {
+    font-size: 30px;
+}
+.reveal h2 {
+    font-size: 42px;
+}
+.reveal h3 {
+    font-size: 35px;
+}
